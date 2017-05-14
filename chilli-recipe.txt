@@ -1,2 +1,3 @@
 		for merge conflict this is branched recipe of chille powder
 Pushed to git hub
+commit to check commit log after pulling new commits in git hub and not pushing new commits in master to git hub
