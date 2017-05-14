@@ -1,2 +1,3 @@
 		for merge conflict this is branched recipe of chille powder
 Pushed to git hub
+to test pull from git hub after adding new commits to local repository
